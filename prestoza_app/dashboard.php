@@ -121,7 +121,7 @@ if (!isset($_SESSION['user'])) {
         <div class="cards">
             <div class="card">
                 <h3>Products</h3>
-                <p>Browse items from DummyJSON API.</p>
+                <p>Canvas items from the CYBER SHOP.</p>
                 <a href="products.php">View Products →</a>
             </div>
             <div class="card">
